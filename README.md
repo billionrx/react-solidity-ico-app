@@ -3,10 +3,6 @@
 ICO App is a Crypto ICO Web3 app (also known as DAPP) that allows user to buy newly created STKN Token (ERC20) in a decentralized manner by virtue of blockchain technology.
 This ICO App Smart Contract is deployed in Goerli TestNet Network.
 
-## Live Website
-
-https://cryptoicoapp.kaamilahamadh.online/
-
 ## Highlights
 
 - All Transactions are routed through ICO Smart Contract, Deployed in Goerli Testnet network.
